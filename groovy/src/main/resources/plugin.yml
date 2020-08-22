@@ -1,0 +1,5 @@
+name: GroovyPlugin
+main: me.bristermitten.groovy.GroovyPlugin
+version: "1.0"
+commands:
+  groovy: {}

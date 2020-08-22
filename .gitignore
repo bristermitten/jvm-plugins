@@ -1,0 +1,13 @@
+# Project exclude paths
+/common/.gradle/
+/common/build/
+/common/build/classes/java/main/
+/groovy/.gradle/
+/groovy/build/
+/java/.gradle/
+/java/build/
+/java/build/classes/java/main/
+/kotlin/.gradle/
+/kotlin/build/
+/scala/target/
+/scala/target/scala-2.13/classes/

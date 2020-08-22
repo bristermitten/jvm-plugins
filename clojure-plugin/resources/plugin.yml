@@ -1,0 +1,6 @@
+name: ClojurePlugin
+main: clojure_plugin.Clojure-plugin
+version: "1.0"
+
+commands:
+  clojure: {}

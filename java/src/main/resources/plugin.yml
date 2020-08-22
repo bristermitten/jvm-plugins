@@ -1,0 +1,5 @@
+name: JavaPlugin
+main: me.bristermitten.java.TheJavaPlugin
+version: "1.0"
+commands:
+  java: {}

@@ -1,0 +1,5 @@
+name: KotlinPlugin
+main: me.bristermitten.kotlin.KotlinPlugin
+version: "1.0"
+commands:
+  kotlin: {}

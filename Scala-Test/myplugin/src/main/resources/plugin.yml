@@ -1,0 +1,9 @@
+name: MyPlugin
+version: 0.1
+main: com.example.myplugin.MyPluginJava
+description: Just another random plugin
+authors: [A, comma, separated, list]
+website: http://example.com
+depend: []
+softdepend: []
+loadbefore: []

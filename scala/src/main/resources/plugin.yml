@@ -1,0 +1,5 @@
+name: ScalaPlugin
+main: me.bristermitten.scala.ScalaPlugin
+version: "1.0"
+commands:
+  scala: {}
